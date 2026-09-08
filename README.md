@@ -1,7 +1,7 @@
 # GenericPingSystem
 Ping system made to be as lightweight as possible while allowing massive customization through blueprint using GameplayTags or the legacy FName tags if needed.
 
-READ FIRST - If you just want the code and want to use it and build out the assets or visuals yourself, the code is available for free right here. Have fun.
+READ FIRST - Source code is free, download from this repo.
 
 
 Initial setup.
