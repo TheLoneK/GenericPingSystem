@@ -23,4 +23,7 @@ At the end of the day do what you want this is just a design paradigm recommenda
 End of Setup : This is all that's required to start using or testing it before I get into the details and configuration of the system.
 
 
+If you just used the free code please consider my Kofi, every bit helps.
+Thank you!
+
 
